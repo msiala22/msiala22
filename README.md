@@ -16,49 +16,34 @@
 ---
 
 ### 🧰 Tecnologias que eu uso
+<a href="#"><img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
-![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ### 🌍 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulink)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seucanal)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportfolio.com)
+<a href="https://wa.me/244929663637"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://tiktok.com/@seuusuario"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/seuusuario"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://facebook.com/seuusuario"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://youtube.com/@seucanal"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://seusite.com"><img src="https://img.shields.io/badge/-Portfólio-121212?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
 
 ---
 
 ### 📈 GitHub Stats
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+
+
 
 ---
 
 ### ✨ Frase que me inspira
 > "A disciplina é a ponte entre metas e realizações." – Jim Rohn
 
-```
 
----
-
-Assim que você me responder com seus dados, personalizo tudo com seus links, seu nome e estilo preferido. Quer isso como `README.md` do seu perfil ou para algum repositório específico?
-
-
-<!---
-msiala22/msiala22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
