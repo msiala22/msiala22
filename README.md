@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Marcos Siala!</h1>
 
 <p align="center">
-  💻 Técnico em Eletrônica e Telecomunicações | 🌐 Freelancer em Tecnologia | 🎯 Criador de Conteúdo
+  💻 Técnico em Eletrônica e Telecomunicações | 🌐 Freelancer | Entusiasta em Tecnologia | 🎯 Criador de Conteúdos Digital
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 - 🎓 Formado pelo Instituto de Telecomunicações - ITEL
 - 🚀 Apaixonado por tecnologia, empreendedorismo e soluções criativas
-- 📍 Atualmente focado em: **UX Design, Automação e Conteúdo Educacional**
+- 📍 Atualmente focado em: **Programação, Design Gráfico, E-commerce e Trade**
 - 💡 Fundador da [Marsiall](https://github.com/Marsiall)
 
 ---
