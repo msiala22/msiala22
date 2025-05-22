@@ -36,12 +36,13 @@
 
 ---
 
-### 📈 GitHub Stats
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=msiala22&layout=compact&langs_count=6&theme=radical)
+### 🧠 GitHub Insights
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=msiala22&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msiala22&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
 
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=msiala22&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msiala22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msiala22&theme=tokyonight&hide_border=true)
 
 
 
