@@ -37,6 +37,11 @@
 ---
 
 ### 📈 GitHub Stats
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=msiala22&layout=compact&langs_count=6&theme=radical)
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=msiala22&show_icons=true&count_private=true&theme=radical)
+
+![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=msiala22&theme=radical)
 
 
 
